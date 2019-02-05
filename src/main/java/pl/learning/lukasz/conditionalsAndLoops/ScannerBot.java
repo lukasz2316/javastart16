@@ -8,6 +8,7 @@ public class ScannerBot {
     }
 
 
+
     public static void chating()
 
     {
